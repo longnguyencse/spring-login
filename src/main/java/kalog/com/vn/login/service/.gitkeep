@@ -1,0 +1,1 @@
+Now let´s create our service layer. We will inject the UserRepository, RoleRepository and the BCryptPasswordEncoder into UserService .
